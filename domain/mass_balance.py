@@ -6,6 +6,7 @@ chart. Porosity terms from the original are computed but were never displayed;
 they are omitted here (add back if a future panel needs them).
 """
 
+
 from __future__ import annotations
 
 from typing import List
