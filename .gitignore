@@ -37,13 +37,6 @@ ENV/
 *.npy
 *.npz
 
-# Model checkpoints
-*.pt
-*.pth
-*.ckpt
-*.bin
-*.safetensors
-
 # IDEs
 .vscode/
 .idea/
