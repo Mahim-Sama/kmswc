@@ -5,8 +5,9 @@ A Python desktop application that simulates a **two-stage, six-layer composting 
 This software was developed as part of the research paper:
 
 > **Development of a Programming Based Kinetic Model for Two Stage Composting of Solid Waste**  
-> Zarif Tanzim Aziz, Quazi Hamidul Bari, MD. Mahfuzur Rahman  
-> Khulna University of Engineering & Technology / Ahsanullah University of Science and Technology
+> Zarif Tanzim Aziz, Md. Mahfuzur Rahman, Quazi Hamidul Bari  
+> Khulna University of Engineering & Technology / Ahsanullah University of Science and Technology  
+> arXiv:2606.24556 — <https://arxiv.org/abs/2606.24556>
 
 ---
 
@@ -134,10 +135,16 @@ Overall VS reduction: ~46 % across both stages (~10 % in Stage 1, ~2 % in Stage 
 
 If you use this software in your research, please cite the associated paper:
 
-```text
-Zarif Tanzim Aziz, Quazi Hamidul Bari, MD. Mahfuzur Rahman.
-"Development of a Programming Based Kinetic Model for Two Stage Composting of Solid Waste."
-Khulna University of Engineering & Technology, 2026.
+```bibtex
+@misc{aziz2026developmentprogrammingbasedkinetic,
+      title={Development of a Programming Based Kinetic Model for Two Stage Composting of Solid Waste}, 
+      author={Zarif Tanzim Aziz and Md. Mahfuzur Rahman and Quazi Hamidul Bari},
+      year={2026},
+      eprint={2606.24556},
+      archivePrefix={arXiv},
+      primaryClass={cs.CE},
+      url={https://arxiv.org/abs/2606.24556}, 
+}
 ```
 
 The underlying mathematical model is described in:
